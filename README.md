@@ -1,3 +1,6 @@
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+---
+
 # 👋 Hi, I'm Naveen Kumar  
 
 🎓 **2nd Year B.Tech** | **AI & DS Branch**  
