@@ -15,9 +15,9 @@
 ---
 
 ## 📊 GitHub Stats  
- ![Naveen Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveen kumar.M&show_icons=true&theme=radical)
+ ![Naveen Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarmnaveen953-dot&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen kumar.M&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmnaveen953-dot&layout=compact&theme=radical)  
 
 ---
 
