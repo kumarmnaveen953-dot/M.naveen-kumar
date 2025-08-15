@@ -21,6 +21,8 @@
 
 ---
 
-## 🔗 Connect With Me  
-- 📧 Email: kumarmnaveen953@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/naveen-kumar-520308354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## 🌐 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarmnaveen953-dot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/naveen-kumar-520308354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
