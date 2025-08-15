@@ -28,3 +28,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/naveen._0923)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/8939332568)
 
+---
+
+[![BMW](https://img.shields.io/badge/BMW-%230079C1.svg?style=for-the-badge&logo=bmw&logoColor=white)](https://www.bmw.com)
+[![Thank You](https://img.shields.io/badge/Thank%20You-%23FFDD00.svg?style=for-the-badge&logo=Handshake&logoColor=black)](#)
